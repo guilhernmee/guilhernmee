@@ -27,9 +27,7 @@
 </br>
 </br>
 
-
-
-# Linguagens e ferramentas 👨‍💻 🛠:
+# Minahs linguagens e ferramentas 👨‍💻 🛠:
 </br>
 <p align="center">
 
@@ -38,7 +36,6 @@
 </br>
 </br>
 </br>
-
 
 # Me contate! 📩 :
 
