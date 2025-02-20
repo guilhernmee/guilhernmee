@@ -14,7 +14,7 @@
 - 📚 Sociedades, identidades, e territórios
 
 ### - Meus hobbies são : 
-- 🎸 Ouvir música ( Minha última música ouvida ! ): [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+- 🎸 Ouvir música ( Minha última música ouvida ! ):[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 - 🎸 Assistir filmes
 - 🎸 Escrever
 - 🎸 Tocar guitarra
