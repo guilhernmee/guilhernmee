@@ -20,7 +20,7 @@
 - 🎸 Assistir filmes 
 - 🎸 Escrever
 - 🎸 Tocar guitarra
-- 🎸 Desing
+- 🎸 Design
 - 🎸 Jogos (KOF 2002!!)
 
 
