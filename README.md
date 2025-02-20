@@ -23,25 +23,15 @@
 - 🎸 Desing
 - 🎸 Jogos (KOF 2002!!)
 
-</br>
-</br>
-</br>
 
-# Minahs linguagens e ferramentas 👨‍💻 🛠:
+# Minhas linguagens e ferramentas 👨‍💻 🛠:
 </br>
 <p align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,aiscript,python,discord,github,windows)](https://skillicons.dev)
-</p>
-</br>
-</br>
-</br>
+
 
 # Me contate! 📩 :
-
-<p>
- </br>
-
 
 Se quiser entrar em contato comigo, eu tô sempre pela UNICID, ou no meu instagram!
 - 📷 @guilhernmee
