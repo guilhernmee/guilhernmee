@@ -38,8 +38,8 @@
 
 # Me contate! 📩 :
 
-Se quiser entrar em contato comigo, eu tô sempre pela UNICID, ou nas minhas redes sociais!
+Se quiser entrar em contato comigo, eu tô sempre pela UNICID, ou nas minhas redes sociais! 
 
-📷 @guilhernmee
-🕊️ @guilheernmee 
+📷 @guilhernmee - Instagram |
+🕊️ @guilheernmee - Twitter (X)
 <img hight="150" width="220" alt="GIF" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVpN3p5Z3lncW55b2pyZDk2M21jaGI2NTEyeTBxcXFycDZzNTBxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjG98gMyj574A/giphy.gif">
