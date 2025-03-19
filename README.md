@@ -11,7 +11,7 @@
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif"> Modelagem de negócios e requisitos
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/74nJqMKw4L4AAAAj/earth-internetcore.gif"> Aplicações para internet
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/6MYsXDHVasAAAAAj/traderoomai-stockmarket.gif"> Empreendedorismo
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/ajuUCdkcPqgAAAAi/exclamation-point-ragnarok.gif"> Sociedades, identidades, e territórios
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/ajuUCdkcPqgAAAAi/exclamation-point-ragnarok.gif"> Sociedades, identidades e territórios
 
 ### - Meus hobbies são : 
 - 🎸 Ouvir música
