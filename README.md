@@ -3,6 +3,9 @@
 ### Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre de um curso de 4 semestres. Minha paixão por tecnologia começou cedo, quando descobri como jogos, consoles e computadores funcionavam. Em 2020, tive meu primeiro contato com HTML ao personalizar meu perfil no site SpaceHey, o que despertou meu interesse por programação. Também fiz cursos de informática, e hoje minhas linguagens favoritas são Python e HTML. Estou sempre explorando novos conhecimentos para crescer na área de tecnologia!
 
 
+<iframe width="0" height="0" src="https://www.youtube.com/embed/k8ozVkIkr-g//?&;amp;;autoplay=1&;loop=1&;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy">
+</iframe>
+
 <img hight="400" width="450" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
 
 ### - Atualmente, estou aprendendo :
@@ -38,8 +41,7 @@
 
 # Me contate! 📩 :
 
-Se quiser entrar em contato comigo, eu tô sempre pela UNICID, ou nas minhas redes sociais! 
-
+Se quiser entrar em contato comigo, eu só usso essas redes sociaiss! s2
 📷 @guilhernmee - Instagram |
 🕊️ @guilheernmee - Twitter (X)
 <img hight="150" width="220" alt="GIF" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVpN3p5Z3lncW55b2pyZDk2M21jaGI2NTEyeTBxcXFycDZzNTBxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjG98gMyj574A/giphy.gif">
