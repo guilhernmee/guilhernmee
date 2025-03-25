@@ -3,9 +3,6 @@
 ### Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre de um curso de 4 semestres. Minha paixão por tecnologia começou cedo, quando descobri como jogos, consoles e computadores funcionavam. Em 2020, tive meu primeiro contato com HTML ao personalizar meu perfil no site SpaceHey, o que despertou meu interesse por programação. Também fiz cursos de informática, e hoje minhas linguagens favoritas são Python e HTML. Estou sempre explorando novos conhecimentos para crescer na área de tecnologia!
 
 
-<iframe width="0" height="0" src="https://www.youtube.com/embed/k8ozVkIkr-g//?&;amp;;autoplay=1&;loop=1&;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy">
-</iframe>
-
 <img hight="400" width="450" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
 
 ### - Atualmente, estou aprendendo :
