@@ -31,7 +31,7 @@
 </br>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,aiscript,python,discord,github,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,discord,github)](https://skillicons.dev)
 
 <img hight="250" width="320" alt="GIF" align="center" src="https://i.gifer.com/3qVd.gif">
 </br>
