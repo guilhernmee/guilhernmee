@@ -10,13 +10,13 @@ Minhas linguagens favoritas hoje são Python e HTML, mas estou sempre aprendendo
 <img hight="400" width="450" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
 
 ### - Atualmente, estou aprendendo :
-Engenharia de Software
-Sistemas Operacionais
-Técnicas de dev. de algoritmos
-Programação Web
-Matemática aplicada
-Qualidade de software
-Modelagem de dados
+- Engenharia de Software
+- Sistemas Operacionais
+- Técnicas de dev. de algoritmos
+- Programação Web
+- Matemática aplicada
+- Qualidade de software
+- Modelagem de dados
 
 
 ### - Meus hobbies são : 
