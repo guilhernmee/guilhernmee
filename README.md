@@ -1,6 +1,10 @@
 # Oi, eu sou o Guilherme!
 
-### Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre de um curso de 4 semestres. Minha paixão por tecnologia começou cedo, quando descobri como jogos, consoles e computadores funcionavam. Em 2020, tive meu primeiro contato com HTML ao personalizar meu perfil no site SpaceHey, o que despertou meu interesse por programação. Também fiz cursos de informática, e hoje minhas linguagens favoritas são Python e HTML. Estou sempre explorando novos conhecimentos para crescer na área de tecnologia!
+### Tenho 18 anos e estou no 2º semestre de Análise e Desenvolvimento de Sistemas na UNICID (Universidade Cidade de São Paulo). Desde pequeno, sempre fui curioso com tecnologia — gostava de entender como jogos, computadores e consoles funcionavam por trás das telas.
+
+Em 2020, descobri o HTML enquanto personalizava meu perfil no SpaceHey, e foi aí que comecei a me interessar de verdade por programação. Desde então, venho estudando cada vez mais, fazendo cursos e explorando esse mundo da tecnologia.
+
+Minhas linguagens favoritas hoje são Python e HTML, mas estou sempre aprendendo coisas novas. Também tenho conhecimentos em informática, pacote Office e áreas administrativas. Gosto de colocar a mão na massa e estou sempre buscando evoluir na área tech.
 
 
 <img hight="400" width="450" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
