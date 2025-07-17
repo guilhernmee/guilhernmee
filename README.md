@@ -10,12 +10,14 @@ Minhas linguagens favoritas hoje são Python e HTML, mas estou sempre aprendendo
 <img hight="400" width="450" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
 
 ### - Atualmente, estou aprendendo :
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif"> Organização e arquitetura de computadores
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif"> Programação de computadores
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif"> Modelagem de negócios e requisitos
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/74nJqMKw4L4AAAAj/earth-internetcore.gif"> Aplicações para internet
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/6MYsXDHVasAAAAAj/traderoomai-stockmarket.gif"> Empreendedorismo
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/ajuUCdkcPqgAAAAi/exclamation-point-ragnarok.gif"> Sociedades, identidades e territórios
+Engenharia de Software
+Sistemas Operacionais
+Técnicas de dev. de algoritmos
+Programação Web
+Matemática aplicada
+Qualidade de software
+Modelagem de dados
+
 
 ### - Meus hobbies são : 
 - 🎸 Ouvir música
