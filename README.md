@@ -7,7 +7,7 @@ Em 2020, descobri o HTML enquanto personalizava meu perfil no SpaceHey, e foi a�
 Minhas linguagens favoritas hoje são Python e HTML, mas estou sempre aprendendo coisas novas. Também tenho conhecimentos em informática, pacote Office e áreas administrativas. Gosto de colocar a mão na massa e estou sempre buscando evoluir na área tech.
 
 
-<img hight="400" width="450" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
+<img hight="400" width="400" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
 
 ### - Atualmente, estou aprendendo :
 - Engenharia de Software
