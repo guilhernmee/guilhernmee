@@ -1,4 +1,4 @@
-# Oi, eu sou o Guilherme!
+# ...𝙨𝙤 𝙗𝙚𝙖𝙪𝙩𝙞𝙛𝙪𝙡, 𝙩𝙝𝙚 𝙨𝙥𝙖𝙘𝙚 𝙗𝙚𝙩𝙬𝙚𝙚𝙣, 𝙖 𝙥𝙖𝙞𝙣𝙛𝙪𝙡 𝙧𝙚𝙢𝙞𝙣𝙙𝙚𝙧 𝙖𝙣𝙙 𝙖 𝙩𝙚𝙧𝙧𝙞𝙗𝙡𝙚 𝙙𝙧𝙚𝙖𝙢.
 
 ### Tenho 18 anos e estou no 2º semestre de Análise e Desenvolvimento de Sistemas na UNICID (Universidade Cidade de São Paulo). Desde pequeno, sempre fui curioso com tecnologia — gostava de entender como jogos, computadores e consoles funcionavam por trás das telas.
 
