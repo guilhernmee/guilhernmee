@@ -49,13 +49,4 @@
 
 </p>
 
----
 
-# Me contate! 📩
-
-Se quiser entrar em contato comigo, eu só uso essas redes sociais! ❤️
-
-📷 **Instagram:** [@limpguizkit](https://instagram.com/limpguizkit)  
-🕊️ **Twitter (X):** [@guiigssss](https://twitter.com/guiigssss)  
-
-<img height="150" width="220" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl2Z29rbWx6Mmk3Z2xkamJ2czlxY21heHU3eHkzN2VhbzdkemhwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D9aSh4ymC0l7fCVLtg/giphy.gif">
