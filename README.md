@@ -41,5 +41,4 @@
   ---
 ## 💬 Contact Me!
 [![Email](https://img.shields.io/badge/Gmail-guigernme@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguigernme@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matos-4ba178364)
