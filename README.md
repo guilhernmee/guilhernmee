@@ -42,3 +42,11 @@
 ## 💬 Contact Me!
 [![Email](https://img.shields.io/badge/Gmail-guigernme@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguigernme@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matos-4ba178364)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[guilhernmee]/[guilhernmee]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[guilhernmee]/[guilhernmee]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[guilhernmee]/[guilhernmee]/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
