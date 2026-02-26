@@ -1,7 +1,7 @@
 <h1 align="center">Heyy! 👋 I'm Guilherme!</h1>
 
 <p align="center">
-  <b>System Development Student</b> | Front-End Developer with a Passion for Technology | Focused on Expanding Knowledge in HTML, CSS, JavaScript, and Modern Frameworks
+  <b>System Development Student </b> | Cybersecurity Student | Focused on Malware Analysis & Operating System Security | Guitarist! |
   </p>
   
   ---
