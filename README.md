@@ -1,7 +1,7 @@
 <h1 align="center">Heyy! 👋 I'm Guilherme!</h1>
 
 <p align="center">
-  <b>System Development Student </b> | Cybersecurity Student | Focused on Malware Analysis & Operating System Security | Guitarist! |
+  <b>System Development Student </b> | Current studying Cybersecurity!  | Focused on Malware Analysis & Operating System Security | Guitarist! |
   </p>
   
   ---
