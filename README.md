@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- BANNER ESTILO CAPA — EVANGELION -->
-<img src="https://media.tenor.com/aAFQQMp4amIAAAAC/evangelion-neon-genesis-evangelion.gif" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo5dG5pMzN6dGkxc3dveTlzeWk5OGU2Mm91MjFvNDhteW82cW9mNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdqE46HziuFJBOaKys/giphy.gif" width="100%"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  🪟 Guilherme.exe — System Properties           [_][□][X] ║
+║  🪟 Guilherme.exe — System Properties           [_][□][X]║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
 ║  ▸ Name    : Guilherme                                   ║
@@ -47,11 +47,11 @@
 
 <div align="center">
 
-## ＷＩＲＥＤの　ＳＴＡＴＵＳ
+## 　Ｓ Ｔ Ａ Ｔ Ｕ Ｓ 　｡ﾟ
 
-<img src="https://media.tenor.com/9rMBNSgGlEMAAAAd/lain-serial-experiments-lain.gif" width="260"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRveGN5Z2x3NHc1aHcxdnh5bzNuamk5cnN4Y3NldW9hc3BsNmlkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J8gnHoqDuUPg/giphy.gif" width="260"/>
 &nbsp;&nbsp;
-<img src="https://i.pinimg.com/originals/b3/5e/29/b35e29fcabf3eb81d5eafcbae5e65e47.gif" width="260"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlkY2lld3V1YWd5dTRxMTJ2Mm50ZXdiYzk3ajY4cmxrY2trNHJzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgpernHLP5GZp44/giphy.gif" width="260"/>
 
 </div>
 
@@ -69,8 +69,6 @@
 ║   EVANGELION UNIT   : ACTIVE                             ║
 ║   AT FIELD STATUS   : EXPANDING                          ║
 ║                                                          ║
-║   >> HTB PROFILE LINK BELOW <<                           ║
-║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -82,9 +80,29 @@
 
 <div align="center">
 
+## 　🎵 　ＪＡＭＭＩＮＧ 　ＴＯ 　｡ﾟ★
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9oMzY5ZnN3amhzNXZqcmZ3OGZhajhpM3VhdjNmZThueGI5bDBkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtlnVulRCN8QAb6/giphy.gif" width="200"/>
+
+<br/><br/>
+
+> ⚠️ **Para ativar o widget do Spotify**, siga os passos abaixo:
+>
+> 1. Acesse **[novatorem.vercel.app](https://novatorem.vercel.app)** e conecte sua conta do Spotify
+> 2. Substitua `SEU_USUARIO_SPOTIFY` na linha abaixo pelo seu usuário
+> 3. Delete este bloco de aviso depois!
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=FF71CE)](https://open.spotify.com/user/SEU_USUARIO_SPOTIFY)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 　Ａ Ｅ Ｓ Ｔ Ｈ Ｅ Ｔ Ｉ Ｃ 　ＬＡＮＧＵＡＧＥＳ
 
-<img src="https://media.tenor.com/RvwGQnXnzCMAAAAC/evangelion-neon-genesis-evangelion.gif" width="380"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRla3pjc21hbno0dzdxYWUxa3ZxZm5qaHFhZmViNmlteGlrNnJueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJoo8QdKlnW/giphy.gif" width="320"/>
 
 <br/><br/>
 
@@ -103,7 +121,7 @@
 
 ## 　ＴＯＯＬＳ 　｡ﾟ☆
 
-<img src="https://media.tenor.com/2QjDQZtdEO4AAAAC/windows-xp-windows.gif" width="120"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ6ZXEzeGlpaGZhaGd6M2V2NXJ4a2w3cnlnOG9oajFkdGZ5bnplbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="130"/>
 
 <br/>
 
@@ -118,7 +136,7 @@
 
 ## 　ＣＯＮＴＡＣＴ 　｡ﾟ★
 
-<img src="https://media.tenor.com/vGMBkbdKOnsAAAAC/lain-lain-iwakura.gif" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI3ZXJkOTVkYWFubzVubGw1dmt1emtzd3BxaGczdHp0azh0OXBnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citFjBSrF7WlO/giphy.gif" width="300"/>
 
 <br/><br/>
 
