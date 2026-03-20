@@ -28,11 +28,17 @@
   ---
 ### 🧩 My Tools
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" title="VsCode"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" title="VSCode"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux"/>
 </div>
   ---
-## 💬 Contact Me!
-[![Email](https://img.shields.io/badge/Gmail-guigernme@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguigernme@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matos-4ba178364)
- muda essa minha bio do git, faz ela com referencias a evnagelion e mais coisas de cybersegurança
+## 💬 Contact Me
+ 
+<div align="center">
+ 
+[![Email](https://img.shields.io/badge/Gmail-guigernme@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guigernme@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Matos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matos-4ba178364)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Unit--01-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c442e-2252-728b-b024-d91e80f424ef)
+ 
+</div>
