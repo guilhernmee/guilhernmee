@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- HEADER GIF — wide cinematic EVA shot -->
-<img src="https://media.giphy.com/media/de2Bd0zXO07EIxwLj8/giphy.gif" width="100%"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+ENTRY+PLUG+INSERTED...;%3E+LCL+PRESSURE+NOMINAL...;%3E+PILOT+SYNC+INITIATED...;%3E+SYNCHRONIZATION+RATE%3A+INCREASING...;%3E+ALL+SYSTEMS+GO."/>
 
 </div>
