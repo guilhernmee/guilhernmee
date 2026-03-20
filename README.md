@@ -2,7 +2,10 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/vqhnMSfWjh4AAAAC/serial-experiments-lain.gif" width="100%" style="max-width:700px"/>
+<!-- BANNER ESTILO CAPA — EVANGELION -->
+<img src="https://media.tenor.com/aAFQQMp4amIAAAAC/evangelion-neon-genesis-evangelion.gif" width="100%"/>
+
+<br/>
 
 ```
 ██╗    ██╗██╗██████╗ ███████╗██████╗
@@ -22,10 +25,6 @@
 ---
 
 <div align="center">
-
-<!-- ╔══════════════════════════════════════╗
-     ║   🖥️ WINDOWS XP — ABOUT.EXE        ║
-     ╚══════════════════════════════════════╝ -->
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -50,9 +49,9 @@
 
 ## ＷＩＲＥＤの　ＳＴＡＴＵＳ
 
-<img src="https://media.tenor.com/9rMBNSgGlEMAAAAd/lain-serial-experiments-lain.gif" width="280"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/RvwGQnXnzCMAAAAC/evangelion-neon-genesis-evangelion.gif" width="280"/>
+<img src="https://media.tenor.com/9rMBNSgGlEMAAAAd/lain-serial-experiments-lain.gif" width="260"/>
+&nbsp;&nbsp;
+<img src="https://i.pinimg.com/originals/b3/5e/29/b35e29fcabf3eb81d5eafcbae5e65e47.gif" width="260"/>
 
 </div>
 
@@ -85,13 +84,9 @@
 
 ## 　Ａ Ｅ Ｓ Ｔ Ｈ Ｅ Ｔ Ｉ Ｃ 　ＬＡＮＧＵＡＧＥＳ
 
-<img src="https://media.tenor.com/3GHvBCq-PEUAAAAC/evangelion-end-of-evangelion.gif" width="380"/>
+<img src="https://media.tenor.com/RvwGQnXnzCMAAAAC/evangelion-neon-genesis-evangelion.gif" width="380"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 | ░░ LANGUAGE ░░ | ░░ SIGNAL ░░ |
 |:-:|:-:|
@@ -108,6 +103,10 @@
 
 ## 　ＴＯＯＬＳ 　｡ﾟ☆
 
+<img src="https://media.tenor.com/2QjDQZtdEO4AAAAC/windows-xp-windows.gif" width="120"/>
+
+<br/>
+
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FF71CE?style=for-the-badge&logo=github&logoColor=black)
 
@@ -117,36 +116,14 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/vGMBkbdKOnsAAAAC/lain-lain-iwakura.gif" width="350"/>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  📻 JAMMING TO:                                [_][□][X] ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   ♫ ▶ Now playing...                                     ║
-║       Serial Experiments Lain OST — Duvet               ║
-║       Neon Genesis Evangelion OST — Cruel Angel's Thesis ║
-║       city pop. vaporwave. ambient techno.               ║
-║                                                          ║
-║   [◀◀] [▶/❚❚] [▶▶]  VOL: ██████████ 100%               ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
 ## 　ＣＯＮＴＡＣＴ 　｡ﾟ★
+
+<img src="https://media.tenor.com/vGMBkbdKOnsAAAAC/lain-lain-iwakura.gif" width="300"/>
+
+<br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-guigernme%40gmail.com-FF71CE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guigernme@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Matos-01CDFE?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/guilherme-matos-4ba178364)
-
-<br/>
-
-<img src="https://media.tenor.com/fLNReIdPJZQAAAAC/neon-genesis-evangelion-evangelion.gif" width="380"/>
 
 <br/><br/>
 
