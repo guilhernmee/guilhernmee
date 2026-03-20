@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+NERV+SYSTEM+ONLINE...;%3E+PILOT+IDENTIFIED%3A+GUILHERME;%3E+SYNC+RATE%3A+INCREASING...;%3E+INITIALIZING+ENTRY+PLUG..."/>
-</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+NERV+SYSTEM+ONLINE...;%3E+PILOT+IDENTIFIED%3A+GUILHERME;%3E+SYNC+RATE%3A+INCREASING...;%3E+INITIALIZING+ENTRY+PLUG..."/>
+
+</div>
 
 <p align="center">
   <b>Systems Development Student</b> &nbsp;|&nbsp; Cybersecurity Trainee &nbsp;|&nbsp; Malware Analysis & O.S Security &nbsp;|&nbsp; 🎸 Guitarist
@@ -24,6 +26,14 @@ $ cat /etc/pilot/guilherme.conf
 - 🚀 Always learning, building projects and growing in the tech world
 - 🎶 Passionate about technology, games, computers, consoles, cooking and guitar
 
+<div align="center">
+  <img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" width="480" title="Asuka Langley Soryu"/>
+  <br/>
+  <sub><i>— Asuka watching your code and judging every line —</i></sub>
+</div>
+
+---
+
 ### 🎧 Currently Jamming To:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=1a55a2&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&redirect=true)
@@ -32,9 +42,13 @@ $ cat /etc/pilot/guilherme.conf
 
 ## ⚙️ Tech Stuff
 
-```bash
-$ magi --list-arsenal
-```
+<div align="center">
+  <img src="https://media.giphy.com/media/DKBNw2vrTdzANEV5ec/giphy.gif" width="480" title="Ritsuko Akagi"/>
+  <br/>
+  <sub><i>— Dr. Akagi approving the tech stack —</i></sub>
+</div>
+
+<br/>
 
 ### 🎨 Languages
 
