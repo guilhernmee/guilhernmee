@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+NERV+SYSTEM+ONLINE...;%3E+PILOT+IDENTIFIED%3A+GUILHERME;%3E+SYNC+RATE%3A+INCREASING...;%3E+INITIALIZING+ENTRY+PLUG..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+NERV+SYSTEM+ONLINE...;%3E+PILOT+IDENTIFIED%3A+guiigs;%3E+SYNC+RATE%3A+INCREASING...;%3E+INITIALIZING+ENTRY+PLUG..."/>
 </h1>
 
 <p align="center">
