@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+NERV+SYSTEM+ONLINE...;%3E+PILOT+IDENTIFIED%3A+GUILHERME;%3E+SYNC+RATE%3A+INCREASING...;%3E+INITIALIZING+ENTRY+PLUG..."/>
+<!-- ENTRY PLUG INITIALIZATION -->
+<img src="https://media.giphy.com/media/PMcyzEALWVUS2IAcjC/giphy.gif" width="600" title="Entry Plug Initialization"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+ENTRY+PLUG+INSERTED...;%3E+LCL+PRESSURE+NOMINAL...;%3E+PILOT+SYNC+INITIATED...;%3E+SYNCHRONIZATION+RATE%3A+INCREASING...;%3E+ALL+SYSTEMS+GO."/>
 
 </div>
 
@@ -27,7 +30,7 @@ $ cat /etc/pilot/guilherme.conf
 - 🎶 Passionate about technology, games, computers, consoles, cooking and guitar
 
 <div align="center">
-  <img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" width="480" title="Asuka Langley Soryu"/>
+  <img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" width="480" title="Asuka Langley"/>
   <br/>
   <sub><i>— Asuka watching your code and judging every line —</i></sub>
 </div>
