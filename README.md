@@ -7,7 +7,7 @@
   
 ## 🎸 About Me!
 - 🧑‍💻 Systems Analysis and Development student (UNICID) — 3th semester
-- 🌐 Focused on Cybersecurity, Malware Analysis and O.S Security! (My profile on HTB: https://profile.hackthebox.com/profile/019c442e-2252-728b-b024-d91e80f424ef)
+- 🌐 Focused on Cybersecurity, Malware Analysis and O.S Security!
 - 🚀 Always learning, building projects, and growing in the tech world
 - 🎶 Passionate about technology, games, computers, consoles, cooking and playing guitar
 ### 🔊 Jamming to:
