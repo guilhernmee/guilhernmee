@@ -1,90 +1,67 @@
-<div align="center">
-
-<!-- HEADER GIF — wide cinematic EVA shot -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+ENTRY+PLUG+INSERTED...;%3E+LCL+PRESSURE+NOMINAL...;%3E+PILOT+SYNC+INITIATED...;%3E+SYNCHRONIZATION+RATE%3A+INCREASING...;%3E+ALL+SYSTEMS+GO."/>
-
-</div>
+# ...𝙨𝙤 𝙗𝙚𝙖𝙪𝙩𝙞𝙛𝙪𝙡, 𝙩𝙝𝙚 𝙨𝙥𝙖𝙘𝙚 𝙗𝙚𝙩𝙬𝙚𝙚𝙣, 𝙖 𝙥𝙖𝙞𝙣𝙛𝙪𝙡 𝙧𝙚𝙢𝙞𝙣𝙙𝙚𝙧 𝙖𝙣𝙙 𝙖 𝙩𝙚𝙧𝙧𝙞𝙗𝙡𝙚 𝙙𝙧𝙚𝙖𝙢.
 
 <p align="center">
-  <b>Systems Development Student</b> &nbsp;|&nbsp; Cybersecurity Trainee &nbsp;|&nbsp; Malware Analysis & O.S Security &nbsp;|&nbsp; 🎸 Guitarist
-</p>
-
-<p align="center">
-  <i>"I mustn't run away — not from the unknown, not from the binary, not from the kernel."</i>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2s3ajNtdmlkeTIwYmdlZTdnOW9sbHVqNDExbHQ3dmE1dnF0ajZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBCTQOuO2AlZYX3sM/giphy.gif">
 </p>
 
 ---
 
-## 🔴 About Me
+<details align="center" open="">
+<summary><b><samp>About me!</samp></b></summary>
 
-```bash
-$ cat /etc/pilot/guilherme.conf
-```
+<samp>
 
-- 🧑‍💻 **Systems Analysis & Development** student @ UNICID — 3rd semester
-- 🔐 Focused on **Cybersecurity**: Malware Analysis, O.S Security & Reverse Engineering
-- 🌐 Active on **HackTheBox** — hunting machines like Angels: [HTB Profile](https://profile.hackthebox.com/profile/019c442e-2252-728b-b024-d91e80f424ef)
-- 🚀 Always learning, building projects and growing in the tech world
-- 🎶 Passionate about technology, games, computers, consoles, cooking and guitar
+<b><h2 style="color: #8CB7E4">Who am I?</h2></b>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" width="480"/>
-  <br/>
-  <sub><i>— Asuka watching your code and judging every line —</i></sub>
-</div>
+<p>
+<img height="240" width="400" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNzNzI5ZDJ0YmUxNTI5dXF0ajBhNHNyZ2lpZnc3bG81cGVqYXRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQKOG7ZORzHulCUBvj/giphy.gif">
+
+𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘎𝘶𝘪𝘭𝘩𝘦𝘳𝘮𝘦, 𝘐'𝘮 18 𝘢𝘯𝘥 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘪𝘯 𝘮𝘺 3𝘳𝘥 𝘴𝘦𝘮𝘦𝘴𝘵𝘦𝘳 𝘰𝘧 𝘚𝘺𝘴𝘵𝘦𝘮𝘴 𝘈𝘯𝘢𝘭𝘺𝘴𝘪𝘴 𝘢𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘵 𝘜𝘕𝘐𝘊𝘐𝘋 (𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘥𝘢𝘥𝘦 𝘊𝘪𝘥𝘢𝘥𝘦 𝘥𝘦 𝘚𝘢̃𝘰 𝘗𝘢𝘶𝘭𝘰). 𝘐'𝘷𝘦 𝘣𝘦𝘦𝘯 𝘤𝘶𝘳𝘪𝘰𝘶𝘴 𝘢𝘣𝘰𝘶𝘵 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘴𝘪𝘯𝘤𝘦 𝘐 𝘸𝘢𝘴 𝘢 𝘬𝘪𝘥 — 𝘢𝘭𝘸𝘢𝘺𝘴 𝘸𝘢𝘯𝘵𝘦𝘥 𝘵𝘰 𝘬𝘯𝘰𝘸 𝘸𝘩𝘢𝘵 𝘸𝘢𝘴 𝘩𝘪𝘥𝘪𝘯𝘨 𝘣𝘦𝘩𝘪𝘯𝘥 𝘵𝘩𝘦 𝘴𝘤𝘳𝘦𝘦𝘯, 𝘫𝘶𝘴𝘵 𝘭𝘪𝘬𝘦 𝘐 𝘢𝘭𝘸𝘢𝘺𝘴 𝘸𝘢𝘯𝘵𝘦𝘥 𝘵𝘰 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥 𝘸𝘩𝘢𝘵'𝘴 𝘩𝘪𝘥𝘪𝘯𝘨 𝘪𝘯𝘴𝘪𝘥𝘦 𝘵𝘩𝘦 𝘌𝘷𝘢𝘯𝘨𝘦𝘭𝘪𝘰𝘯𝘴. 𝘐𝘯 2020 𝘐 𝘥𝘪𝘴𝘤𝘰𝘷𝘦𝘳𝘦𝘥 𝘏𝘛𝘔𝘓 𝘸𝘩𝘪𝘭𝘦 𝘤𝘶𝘴𝘵𝘰𝘮𝘪𝘻𝘪𝘯𝘨 𝘮𝘺 𝘚𝘱𝘢𝘤𝘦𝘏𝘦𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦 𝘢𝘯𝘥 𝘳𝘦𝘢𝘭𝘪𝘻𝘦𝘥 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘸𝘢𝘴 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘐 𝘳𝘦𝘢𝘭𝘭𝘺 𝘸𝘢𝘯𝘵𝘦𝘥 𝘵𝘰 𝘱𝘶𝘳𝘴𝘶𝘦. 𝘚𝘪𝘯𝘤𝘦 𝘵𝘩𝘦𝘯, 𝘐'𝘷𝘦 𝘣𝘦𝘦𝘯 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨, 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘯𝘥 𝘦𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘵𝘩𝘦 𝘵𝘦𝘤𝘩 𝘸𝘰𝘳𝘭𝘥. 𝘙𝘪𝘨𝘩𝘵 𝘯𝘰𝘸 𝘐'𝘮 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘤𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 — 𝘣𝘦𝘤𝘢𝘶𝘴𝘦 𝘴𝘰𝘮𝘦𝘣𝘰𝘥𝘺 𝘩𝘢𝘴 𝘵𝘰 𝘬𝘦𝘦𝘱 𝘵𝘩𝘦 𝘸𝘢𝘭𝘭𝘴 𝘶𝘱.
+</p>
+
+</samp>
+</details>
 
 ---
 
-### 🎧 Currently Jamming To:
+<details align="center" open="">
+<summary><b><samp>My Hobbies</samp></b></summary>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=1a55a2&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&redirect=true)
+<samp>
 
----
+<b><h2 style="color: #8CB7E4">What do I like to do?</h2></b>
 
-## ⚙️ Tech Stuff
+<ul>
+  <li>Listening to music — mainly Twenty One Pilots (the pilots were right, the trees are coming)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/DKBNw2vrTdzANEV5ec/giphy.gif" width="480"/>
-  <br/>
-  <sub><i>— Dr. Akagi approving the tech stack —</i></sub>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=4e51b1&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&redirect=true)
 
-<br/>
+  <li>Watching films & anime — yes, I cried at End of Evangelion <img height="20" style="vertical-align: middle;" src="https://media.tenor.com/YlX9YBz9FXcAAAAi/ellen-ripley-alien.gif"></li>
+  <li>Writing <img height="20" style="vertical-align: middle;" src="https://media.tenor.com/dh1W3uHt_zsAAAAi/emoji-smiley.gif"></li>
+  <li>Playing guitar <img height="20" style="vertical-align: middle;" src="https://media.tenor.com/biB4OIcEhDcAAAAi/playing-guitar-cat.gif"></li>
+  <li>Design <img height="20" style="vertical-align: middle;" src="https://media.tenor.com/4sQhFfVmisAAAAAj/microsoft-microsoft-windows.gif"></li>
+  <li>Games (KOF 2002!!) <img height="20" style="vertical-align: middle;" src="https://media.tenor.com/HAdTDahjyQEAAAAi/yagami.gif"></li>
+</ul>
 
-### 🎨 Languages
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="50" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="50" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="50" title="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="50" title="PHP"/>
-</div>
-
-### 🧩 Tools
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" title="VSCode"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux"/>
-</div>
+</samp>
+</details>
 
 ---
 
-## 💬 Contact Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-guigernme@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guigernme@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Matos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matos-4ba178364)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Unit--01-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c442e-2252-728b-b024-d91e80f424ef)
-
-</div>
-
----
+# Languages & Tools 👨‍💻 🛠
 
 <p align="center">
-  <i>// God's in His Heaven. All's right with the Network. //</i>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,github,php,mysql,c)](https://skillicons.dev)
+
+</br>
+
+<img height="250" width="320" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z4ajg4anZic29oM21tY212cDExMjZvaTc2dDdmMjBjeWZhMW5vOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzR9o1CxrNYTU1g71p/giphy.gif">
+
 </p>
+
+---
+
+> *"I'm fairly local, I've been around."* — and I'm not running away.
+
+<img height="150" width="220" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl2Z29rbWx6Mmk3Z2xkamJ2czlxY21heHU3eHkzN2VhbzdkemhwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D9aSh4ymC0l7fCVLtg/giphy.gif">
