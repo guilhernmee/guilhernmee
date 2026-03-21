@@ -19,7 +19,7 @@
 
 <p align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=html,js,c,cpp,java,mysql,linux)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,linux)](https://skillicons.dev)
 
 
 </p>
