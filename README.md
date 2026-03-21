@@ -1,5 +1,5 @@
 
-### 19 y/o | Systems Analysis & Development - 3rd semeste | São Paulo, Brazil
+### 19 y/o | Systems Analysis & Development - 3rd semester | São Paulo, Brazil
 ### Currently focused on **Cybersecurity** 
 
 <img height="400" width="300" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
