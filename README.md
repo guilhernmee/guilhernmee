@@ -23,7 +23,7 @@
 
 <p align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,linux,notion,vscode,hackthebox)](https://skillicons.dev)<img height="45" width="45" align = "left" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/hackthebox-x24e2j9cksob570h9epxb.png/hackthebox-gzgxni5aeyvdzirjyqvzlf.png?_a=DATAiZAAZAA0">
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,linux,notion,vscode,hackthebox)](https://skillicons.dev)<
 
 
 </p>
