@@ -23,7 +23,7 @@
 
 <p align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,linux,notion,vscode,hackthebox)](https://skillicons.dev)<
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,linux,notion,vscode,hackthebox)](https://skillicons.dev)
 
 
 </p>
