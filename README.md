@@ -20,9 +20,8 @@ Currently focused on cybersecurity.
 ### 💻 My languages!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,mysql,bash&perline=3" />
 </p>
-
 ---
 
 ### 🛡️ Defensive Stuffz
