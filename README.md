@@ -4,9 +4,9 @@
 Hey, I'm Guilherme, a 19-year-old Systems Analysis and Development student from São Paulo, Brazil. 
 Currently focused on cybersecurity.
 
+---
 
-
-🔭 Currently Learning:
+### 🔭 Currently Learning:
 - Cybersecurity fundamentals
 - Operating Systems
 - Web Development
