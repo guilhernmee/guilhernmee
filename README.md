@@ -1,6 +1,6 @@
 <div>
 
-<img align="right" height = "733" width="450" alt="dragon" src="download.jpg">
+<img align="right" height = "733" width="450" alt="misato" src="download.jpg">
 
 ### 19 y/o | Systems Analysis & Development — 3rd Semester | São Paulo, Brazil
 ### Currently focused on **Cybersecurity**
@@ -29,8 +29,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,vscode,notion,kali,wireshark" />
   <br><br>
- <img src="htb.png" width="48" height="48"/>
- <img src="thm.png" width="48" height="48"/>
+ <img src="htb.jpeg" width="48" height="48"/>
 </p>
 
 ---
