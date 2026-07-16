@@ -46,16 +46,6 @@ Currently focused on cybersecurity.
 
 ---
 
-## 📊 Threat Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhernmee&show_icons=true&theme=highcontrast&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000)
-
-</div>
-
----
-
 ## 📬 Contact me!
 
 <div align="center">
