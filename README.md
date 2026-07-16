@@ -6,7 +6,7 @@ Currently focused on cybersecurity.
 
 ---
 
-### 🔭 Currently Learning:
+### 🔭 Currently Learning
 - Cybersecurity fundamentals
 - Operating Systems
 - Web Development
@@ -46,7 +46,7 @@ Currently focused on cybersecurity.
 
 ---
 
-## 📬 Contact me!
+## 📬 Contact me
 
 <div align="center">
  
