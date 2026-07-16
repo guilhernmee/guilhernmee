@@ -28,7 +28,7 @@ Currently focused on cybersecurity.
 ### 🛡️ Defensive Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,notion,kali,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,kali,windows" />
   <br><br>
 </p>
 
