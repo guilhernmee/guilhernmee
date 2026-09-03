@@ -8,10 +8,10 @@ Currently focused on cybersecurity.
 
 ### 🔭 Currently Learning
 - Cybersecurity fundamentals
-- Operating Systems
-- Web Development
-- Software Engineering & Quality
-- Data Modeling
+- Operating Systems Defence
+- Networking
+- Webrequest
+- Network fundamentals
 
 </div>
 
