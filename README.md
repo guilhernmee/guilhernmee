@@ -10,7 +10,7 @@ Currently focused on cybersecurity.
 - Cybersecurity fundamentals
 - Operating Systems Defence
 - Networking
-- Webrequest
+- Web Request
 - Network fundamentals
 
 </div>
