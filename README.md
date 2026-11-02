@@ -40,7 +40,7 @@ Currently focused on cybersecurity.
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&redirect=true)
 
 </div>
 
